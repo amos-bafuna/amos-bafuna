@@ -45,7 +45,7 @@
 ---
 
 <a href="https://github.com/amos-bafuna/github-readme-stats">
-   <img width="60%" alt="Amos's github stats" src="https://github-readme-stats.vercel.app/api?username=amos-bafuna&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+   <img width="60%" alt="Amos's github stats" src="https://github-readme-stats.vercel.app/api?username=amos-bafuna&show_icons=true&hide_border=true&bg_color=10,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
