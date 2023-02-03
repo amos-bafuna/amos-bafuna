@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Amos Bafuna, a full stack developer based in Democratic Republic of Congo 
+# Hi there 👋! I'm Amos Bafuna
+## A full stack developer based in Democratic Republic of Congo 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://amosbafuna.vercel.app)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amos-bafuna)
